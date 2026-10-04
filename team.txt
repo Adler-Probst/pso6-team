@@ -1,4 +1,4 @@
 Team members: Adler-Probst and Junaid-Hasan
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: the best
-
