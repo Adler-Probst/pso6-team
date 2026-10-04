@@ -1,3 +1,4 @@
-Team members: Adler-Probst and B-USERNAME
+Team members: Adler-Probst and Junaid-Hasan
 Favorite programming language: TBD
-Team motto: " We the best music " 
+<<<<<<< HEAD
+Team motto: the best
